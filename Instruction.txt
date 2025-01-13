@@ -9,7 +9,8 @@ Before running the code, make sure you have the necessary dependencies installed
 - sklearn
 - pandas
   
-You can install these modules using `pip` by running the following command in your terminal or command prompt:
+You can install these modules using `pip` by running the following command in your terminal or command 
+prompt:
 
 ```bash
 pip install numpy matplotlib scipy sklearn pandas 
@@ -19,7 +20,8 @@ Install also the notebook interface:
 ```bash
 pip install notebook
 
-The code is in the file 'Gosmar_Maretto_HWSC' which is intended to be run in a Jupyter Notebook. To launch a Jupyter Notebook, navigate to the directory containing your notebook and datasets, then run:
+The code is in the file 'Gosmar_Maretto_HWSC' which is intended to be run in a Jupyter Notebook. 
+To launch a Jupyter Notebook, navigate to the directory containing your notebook and datasets, then run:
 
 ```bash
 jupyter notebook
